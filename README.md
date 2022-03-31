@@ -5,6 +5,8 @@
 - 💞️ I’m looking to collaborate on VR Gaming projects,small scale game development project and medium scale game development project but after 2022.
 - 📫 How to reach me at out on my email address:- pritam1pal2000@gmail.com or on discord id:- BLACKツGHOST#6723
 
+
+<!--You need to rename your @Metro007 to PritamPaul01, so that it will appear on your profile.--!>
 <!---
 Metro007/Metro007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
